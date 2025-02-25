@@ -1,10 +1,8 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## DEVELOPING AN AI-BASED INTERACTIVE VIRTUAL ASSISTANT FOR THE DEPARTMENT OF JUSTICE’S WEBSITE
+The development of an AI-based interactive virtual assistant for the Department of Justice’s website aims to streamline legal assistance by providing users with instant responses to inquiries, guiding them through legal procedures, and assisting with document submissions. This chatbot enhances accessibility, improves efficiency, and ensures a seamless user experience for the public.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The AI-based interactive virtual assistant for the Department of Justice’s website is designed to enhance user engagement by providing real-time legal assistance. Using advanced Natural Language Processing (NLP), the chatbot can answer queries, guide users through legal procedures, and facilitate document submissions. It ensures accessibility, efficiency, and transparency, reducing manual workload while offering 24/7 support. This project showcases the integration of AI in the legal sector to improve public services and user experience.
 
 ## Features
 <!--List the features of the project as shown below-->
